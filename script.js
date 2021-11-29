@@ -12,3 +12,4 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 console.log("YOOOO");
+console.log("YOOOO");
